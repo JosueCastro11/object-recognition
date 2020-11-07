@@ -45,6 +45,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+https://teachablemachine.withgoogle.com/train/image
+
+[Teachable to create object classes](https://teachablemachine.withgoogle.com/train/image).
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
